@@ -1,21 +1,22 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
+
+<p><h2>Interactive Robot Control Interface</h2>
+
+This project is an interactive user interface built with React to control and manage robots, developed during my mandatory internship at a robotics firm. The interface provides real-time control of robot movements and settings through a clean, user-friendly layout. It aims to simplify the user experience for technicians and operators interacting with robotic systems.
+Features:
+
+    Real-time robot control with dynamic input fields
+    Interactive buttons for specific robot movements and operations
+    Responsive design ensuring compatibility with various devices
+    Error handling and visual feedback for better user experience
+
+Feel free to explore the code, and any contributions or feedback are welcome!</p>
+
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 # Getting Started with Create React App
@@ -61,7 +62,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Oguz Icin - <a href="https://linkedin.com/in/oguzicin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzicin" height="30" width="40" /></a>
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
