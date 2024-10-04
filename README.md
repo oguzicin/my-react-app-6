@@ -3,15 +3,15 @@
   </a>
 
 
-<p><h2>Interactive Robot Control Interface</h2>
+<p><h2>Robot Control Interface</h2>
 
 This project is an interactive user interface built with React to control and manage robots, developed during my mandatory internship at a robotics firm. The interface provides real-time control of robot movements and settings through a clean, user-friendly layout. It aims to simplify the user experience for technicians and operators interacting with robotic systems.
 Features:
 
-    Real-time robot control with dynamic input fields
-    Interactive buttons for specific robot movements and operations
-    Responsive design ensuring compatibility with various devices
-    Error handling and visual feedback for better user experience
+Robot control with dynamic input fields
+Interactive buttons for specific robot movements and operations
+Responsive design ensuring compatibility with various devices
+Error handling and visual feedback for better user experience
 
 Feel free to explore the code, and any contributions or feedback are welcome!</p>
 
